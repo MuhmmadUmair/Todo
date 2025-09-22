@@ -54,7 +54,7 @@ lib/
 
 ## 📸 Screenshots
 
-> *![TODO App](https://github.com/MuhmmadUmair/Todo/blob/75361dceb831e246d60fdd3f9155fad2720c5d7c/Screenshot_1758375997.png)*
+> *![TODO App](https://github.com/MuhmmadUmair/Todo/blob/31c76b6c94bd7d28ddb7d0ad3ab5d478c472bd77/Screenshot_1758375997.png)*
 
 ---
 
