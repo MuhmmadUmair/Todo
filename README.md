@@ -56,6 +56,11 @@ lib/
 
 > *![TODO App](https://github.com/MuhmmadUmair/Todo/blob/31c76b6c94bd7d28ddb7d0ad3ab5d478c472bd77/Screenshot_1758375997.png)*
 > > *![TODO App](https://github.com/MuhmmadUmair/Todo/blob/042f4e297292b0e483957195463a3199078ff3ed/Screenshot_1758454528%20(1).png)*
+> > <p align="center">
+  <img src="https://github.com/MuhmmadUmair/Todo/blob/31c76b6c94bd7d28ddb7d0ad3ab5d478c472bd77/Screenshot_1758375997.png" width="45%" alt="Todo App 1"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/MuhmmadUmair/Todo/blob/042f4e297292b0e483957195463a3199078ff3ed/Screenshot_1758454528%20(1).png" width="45%" alt="Todo App 2"/>
+</p>
 ---
 
 ## ⚙️ Getting Started
